@@ -1,2 +1,2 @@
 From tomcat:8-jre8
-ADD *.war /usr/local/tomcat/webapps/
+ADD mybatis.war /usr/local/tomcat/webapps/
